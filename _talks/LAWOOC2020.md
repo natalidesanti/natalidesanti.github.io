@@ -10,5 +10,4 @@ location: "International Centre for Theoretical Physics (ICTP) & South American 
 
 [comment]: # (My poster presentation is available on [YouTube](https://www.youtube.com/watch?list=PLg0_ydgtbHGFuztiN6tbubN7ZGVqP476K&v=M9vJlbHncug&feature=youtu.be).
 
-The discussion session can be found here:
-[More information here](https://www.youtube.com/watch?v=46c07pkPj-Y&feature=youtu.be).
+The discussion session can be found [here](https://www.youtube.com/watch?v=46c07pkPj-Y&feature=youtu.be).
