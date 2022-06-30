@@ -5,7 +5,7 @@ type: "International Workshop - Poster presentation"
 permalink: 
 venue: "Latin American Workshop on Observational Cosmology"
 date: December 17, 2020
-location: "International Centre for Theoretical Physics (ICTP) & South American Institute for Fundamental Research (SAIFR), São Paulo, SP, Brazil"
+location: "Virtual participation - International Centre for Theoretical Physics (ICTP) & South American Institute for Fundamental Research (SAIFR), São Paulo, SP, Brazil"
 ---
 
 [comment]: # (My poster presentation is available on [YouTube](https://www.youtube.com/watch?list=PLg0_ydgtbHGFuztiN6tbubN7ZGVqP476K&v=M9vJlbHncug&feature=youtu.be).
