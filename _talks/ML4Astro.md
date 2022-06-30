@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Mimicking the halo-galaxy connection using machine learning"
 collection: talks
 type: "International Conference - Poster presentation"
 permalink: 
