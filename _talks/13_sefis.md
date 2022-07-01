@@ -4,7 +4,7 @@ collection: talks
 type: "Poster presentation"
 permalink: 
 venue: "XIII Semana de Física (XIII SeFís)"
-date: August, 2017
+date: August 25, 2017
 location: "Federal University of São Carlos, São Carlos, SP, Brazil"
 ---
 
