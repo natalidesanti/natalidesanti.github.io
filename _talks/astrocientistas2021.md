@@ -8,6 +8,8 @@ date: February 10, 2021
 location: "Virtual meeting"
 ---
 
-[comment]: # (My oral communication is available on [YouTube](https://www.youtube.com/watch?list=PLg0_ydgtbHGFuztiN6tbubN7ZGVqP476K&v=M9vJlbHncug&feature=youtu.be).
+**Coordinates:**
 
-The abstract can be found [here](https://astrocientistas.wixsite.com/astrocientistas/documentos).
+* _Presentation: [YouTube](https://www.youtube.com/watch?list=PLg0_ydgtbHGFuztiN6tbubN7ZGVqP476K&v=M9vJlbHncug&feature=youtu.be).
+* _Abstract:_ [pdf](https://astrocientistas.wixsite.com/astrocientistas/documentos).
+* _Event webpage:_ [astrocientistas](https://astrocientistas.wixsite.com/astrocientistas)
