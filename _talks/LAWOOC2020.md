@@ -1,5 +1,5 @@
 ---
-title: "Using Machine Learning to improve covariance matrices"
+title: "Improvin covariance matrices using machine learning"
 collection: talks
 type: "International Workshop - Poster presentation"
 permalink: https://www.ictp-saifr.org/lawoc2020/
