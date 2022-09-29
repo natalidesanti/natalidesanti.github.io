@@ -1,5 +1,5 @@
 ---
-title: "Mimicking the halo-galaxy connection using machine learning"
+title: "Using machine learning to mimic the halo-galaxy connection"
 collection: talks
 type: "Invited talk"
 permalink: 
