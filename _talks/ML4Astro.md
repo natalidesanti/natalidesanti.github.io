@@ -2,12 +2,13 @@
 title: "A machine learning suite to mimic the halo-galaxy connection"
 collection: talks
 type: "International Conference - Poster presentation"
-permalink: https://indico.ict.inaf.it/event/1692/
+permalink:
 venue: "International Conference on Machine Learning for Astrophysics - ML4Astro"
 date: June 1, 2022
 location: "Virtual participation - Catania, Italy"
 ---
 
-[comment]: # (My poster is available in the [link](https://indico.ict.inaf.it/event/1692/contributions/11253/attachments/5847/11783/de_santi_poster.pdf).
+**Coordinates:**
 
-The webpage of the event can be found [here](https://indico.ict.inaf.it/event/1692/).
+* _Poster:_ [pdf](https://indico.ict.inaf.it/event/1692/contributions/11253/attachments/5847/11783/de_santi_poster.pdf).
+* _Webpage of the event:_  [ml4astro](https://indico.ict.inaf.it/event/1692/).
