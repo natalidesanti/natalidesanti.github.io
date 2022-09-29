@@ -8,4 +8,10 @@ date: September 26, 2022
 location: "Virtual participation"
 ---
 
-The video of the presentations (including mine - 1:11) can be found [here](https://www.youtube.com/watch?v=bwwl_tjM2Go).
+**Coordinates:**
+
+* Video of the presentations (including mine - 1:11) are [here](https://www.youtube.com/watch?v=bwwl_tjM2Go).
+
+* Abstract is [here](https://www.eventweb.com.br/specific-files/manuscripts/sab2022/107_1653933174.pdf).
+
+* Event webpage is [RASAB](https://sab-astro.org.br/).
