@@ -10,8 +10,8 @@ location: "Virtual participation"
 
 **Coordinates:**
 
-* Video of the presentations (including mine - 1:11) are [here](https://www.youtube.com/watch?v=bwwl_tjM2Go).
+* _Presentations:_ [YouTube](https://www.youtube.com/watch?v=bwwl_tjM2Go).
 
-* Abstract is [here](https://www.eventweb.com.br/specific-files/manuscripts/sab2022/107_1653933174.pdf).
+* _Abstract:_ [pdf](https://www.eventweb.com.br/specific-files/manuscripts/sab2022/107_1653933174.pdf).
 
-* Event webpage is [RASAB](https://sab-astro.org.br/).
+* _Event webpage:_ [RASAB](https://sab-astro.org.br/).
