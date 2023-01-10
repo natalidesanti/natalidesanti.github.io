@@ -1,5 +1,5 @@
 ---
-title: "Improvin covariance matrices using machine learning"
+title: "Improving covariance matrices using machine learning"
 collection: talks
 type: "International Workshop - Poster presentation"
 permalink:
