@@ -11,19 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, University of São Paulo, 2019/in course
-* M.S. in Physics, University Federal of São Carlos, 2016/2018
-* B.S. in Physics, University of São Paulo, 2012/2015
+
+* Ph.D candidate in Physics, University of São Paulo, 2019/in course
+* M.S. degree in Physics, University Federal of São Carlos, 2016/2018
+* B.S. degree in Physics, University of São Paulo, 2012/2015
 
 Work experience
 ======
+
+* 2022 - in course: Guest researcher/Research Intern Abroad
+  * Simons Foundation/Flatiron Institute/CMB Analysis and Simulation group
+  * Supervisor: PhD Francisco Villaescusa-Navarro
+
 * 2019 - in course: Candidate to doctor degree in Physics
   * University of São Paulo
-  * Supervisor: Professor Luis Raul Weber Abramo
+  * Supervisor: PhD Luis Raul Weber Abramo
 
 * 2016 - 2018: Master degree in Physics
   * University Federal of São Carlos
-  * Supervisor: Professor Raphael Santarelli
+  * Supervisor: PhD Raphael Santarelli
 
 * 2017: Participation of event organizing committee
   * University Federal of São Carlos
@@ -43,7 +49,6 @@ Work experience
   * University of São Paulo
   * Project title: Study of superconductivity and development of a superconductor material
   * Supervisor: Professor Antonio Carlos Hernandes
-
   
 Skills
 ======
@@ -51,22 +56,25 @@ Skills
   * C
   * Cython
   * Fortran
+  * LateX
   * Python
-  * SQL
+* Machine Learning
+  * Graph Neural Networks
+  * Neural Networks
+  * Convolutional Neural Networks
+  * Symbolic Regression
+  * Logistic Regression
+  * Decision Trees
+  * Support Vector Machines
+  * Random Forest
+  * Regression Data Augmentation (SMOGN)
+  * Stacked Models
 * Tools
   * Emacs
-  * Gimp
-  * Git
-  * Inkscape
+  * Git (github)
   * Jupyter Notebooks
-  * Kdenlive
-  * LaTeX
+  * Linux
   * Mathematica
-  * Matlab
-  * Office Package
-  * Sony Vegas
-  * Vim
-  * Windows Movie Maker
 * Languages
   * Native speaker in Portuguese
   * High-Intermediate in English
@@ -92,7 +100,7 @@ Teaching
   
 Honors and Awards
 ======
-* First best poster award in Master’s degree - XIII Semana de Física (XIII SeFís), 2017
+* First best poster award in Master's degree - XIII Physics Week (XIII SeFís), 2017
 * Certificate of merit - Best student of the 3rd year of high school, 2011
 * Certificate of merit - Best student of the 8th grade elementary school II, 2008
 * Silver medal - X Brazilian Astronomy and Astronautics Olympiad (X OBA), 2007
