@@ -12,7 +12,7 @@ Hello, I am [**Natalí de Santi**](http://lattes.cnpq.br/3869697280207128), a ph
 the Universe, dark matter, dark energy, parameter inference, N-body and hydrodynamical simulations, and halo-galaxy connection), data science, machine
 learning and programming. Currently, I am spending one year of my PhD at the Flatiron Institute, Simons Foundation, as a guest researcher/research intern
 abroad, working with [Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/), and officialy I am a PhD candidate in the Institute of
-Physics, at University of São Paulo (USP), working with [Raul Abramo]([http://lattes.cnpq.br/4558796258762790](http://www.fma.if.usp.br/~abramo/Home.html)).
+Physics, at University of São Paulo (USP), working with [Raul Abramo](http://lattes.cnpq.br/4558796258762790](http://www.fma.if.usp.br/~abramo/Home.html).
 
 First things first, a little **about me**:
 
