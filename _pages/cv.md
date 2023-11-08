@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 
-* 2022 - in course: Guest researcher/Research Intern Abroad
+* 2022 - 2023: Guest researcher/Research Intern Abroad/Predoc at CCA
   * Simons Foundation/Flatiron Institute/CMB Analysis and Simulation group
   * Supervisor: PhD Francisco Villaescusa-Navarro
 
@@ -35,17 +35,17 @@ Work experience
   * University Federal of São Carlos
   * XIII Semana de Física (XIII SeFís)
 
-* 2014 - 2015: Scientific initiation
+* 2014 - 2015: Undergrad Research
   * University of São Paulo
   * Project title: Introduction to particle physics with emphasis on quantum fluctuations
   * Supervisor: Professor Attilio Cucchieri
 
-* 2012: Scientific initiation
+* 2012: Undergrad Research
   * University of São Paulo
   * Project title: Synthesis and characterization of BaTi0.9Zr0.1O3 powders
   * Supervisor: Professor Antonio Carlos Hernandes
 
-* 2009 - 2011: Pre-scientific initiation
+* 2009 - 2011: Highschool Research
   * University of São Paulo
   * Project title: Study of superconductivity and development of a superconductor material
   * Supervisor: Professor Antonio Carlos Hernandes
@@ -60,6 +60,7 @@ Skills
   * Python
 * Machine Learning
   * Graph Neural Networks
+  * Moment Neural Networks
   * Neural Networks
   * Convolutional Neural Networks
   * Symbolic Regression
@@ -77,7 +78,7 @@ Skills
   * Mathematica
 * Languages
   * Native speaker in Portuguese
-  * High-Intermediate in English
+  * Proeficient in English
   * Beginner in Spanish
 
 Publications
