@@ -8,7 +8,7 @@ venue: 'JCAP'
 paperurl: '[https://arxiv.org/pdf/2205.10881.pdf](https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/013)'
 citation: 'de Santi, N. S. M. and Abramo, L. R. 2022, DOI:10.1088/1475-7516/2022/09/013'
 ---
-The open acess in given on the following link:
+
 [Download paper here]([https://arxiv.org/pdf/2205.10881.pdf](https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/013))
 
 Recommended citation: de Santi, N. S. M. and Abramo, L. R., JCAP, 2022, 013, doi:10.1088/1475-7516/2022/09/013.
