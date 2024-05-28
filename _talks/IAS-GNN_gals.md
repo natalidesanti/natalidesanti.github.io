@@ -1,5 +1,5 @@
 ---
-title: "Using graph neural networks to constrain $\Omega_m$ - A robust model"
+title: "Using graph neural networks to constrain Ωm - A robust model"
 collection: talks
 type: "Oral presentation"
 permalink: 
