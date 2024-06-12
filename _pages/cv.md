@@ -101,6 +101,7 @@ Teaching
   
 Honors and Awards
 ======
+* Honorable mention for an outstanding scientific article - Postgraduate Award, IF, USP, 2024
 * First best poster award in Master's degree - XIII Physics Week (XIII SeFís), 2017
 * Certificate of merit - Best student of the 3rd year of high school, 2011
 * Certificate of merit - Best student of the 8th grade elementary school II, 2008
