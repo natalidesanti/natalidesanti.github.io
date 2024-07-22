@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am [**Natalí de Santi**](http://lattes.cnpq.br/3869697280207128), a physicist working with Machine Learning (ML) applied to Cosmology. 
 I have interests in cosmology (specially in the large scale structure of the Universe, dark matter, dark energy, cosmological covariance matrices, parameter inference, N-body and hydrodynamical simulations, and halo-galaxy connection), data science, machine learning and programming. 
-Currently, I am a final year PhD candidate at [University of São Paulo (USP)](https://www5.usp.br) under the supervision of [Dr. Luis Raul Weber Abramo](http://lattes.cnpq.br/4558796258762790) ([USP](https://www5.usp.br)) and [Dr. Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/) ([Flatiron Institute](https://www.simonsfoundation.org/flatiron/)).
+Recently, I have defended my PhD at [University of São Paulo (USP)](https://www5.usp.br) under the supervision of [Dr. Luis Raul Weber Abramo](http://lattes.cnpq.br/4558796258762790) ([USP](https://www5.usp.br)) and [Dr. Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/) ([Flatiron Institute](https://www.simonsfoundation.org/flatiron/)).
 
 First things first, a little **about me**:
 
