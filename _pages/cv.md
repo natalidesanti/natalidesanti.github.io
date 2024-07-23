@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D candidate in Physics, University of São Paulo, 2019/in course
+* Ph.D in Physics, University of São Paulo, 2019/2024
 * M.S. degree in Physics, University Federal of São Carlos, 2016/2018
 * B.S. degree in Physics, University of São Paulo, 2012/2015
 
@@ -23,7 +23,7 @@ Work experience
   * Simons Foundation/Flatiron Institute/CMB Analysis and Simulation group
   * Supervisor: PhD Francisco Villaescusa-Navarro
 
-* 2019 - in course: Candidate to doctor degree in Physics
+* 2019 - 2024: Candidate to doctor degree in Physics
   * University of São Paulo
   * Supervisor: PhD Luis Raul Weber Abramo
 
