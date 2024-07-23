@@ -10,4 +10,4 @@ location: "São Paulo State University Julio de Mesquita Filho (UNESP), Bauru, S
 
 More can be found information [here](http://df.fc.unesp.br/semana/semana19/programacao/).
 
-Material is [here](https://github.com/natalidesanti/introducao_a_relatividade)!
+Material is [here](https://github.com/natalidesanti/introducao_a_relatividade)
