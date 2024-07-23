@@ -2,7 +2,7 @@
 title: "Tutorial on Halo-galaxy connection"
 collection: teaching
 type: "Tutorial"
-permalink: http://df.fc.unesp.br/semana/semana19/programacao/
+permalink: https://www.kitp.ucsb.edu/activities/galevo-c23
 venue: "Galaxy Formation and Evolution in the Data Science Era"
 date: January 24, 2023
 location: "KITP UC Sta Barbara (UCSB), Santa Barbara, CA, USA"
