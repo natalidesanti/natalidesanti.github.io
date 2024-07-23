@@ -30,7 +30,8 @@ After completing my undergraduate degree, I changed universities to pursue my ma
 During this period, I had the opportunity to delve into General Relativity and Quantum Field Theory in Curved Spacetime. 
 My research included a [review of Hawking radiation](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-11172019000300421&tlng=pt) and discussions on the [temporal evolution of a Schwarzschild black hole's mass](https://link.springer.com/article/10.1007/s13538-019-00708-y), taking this effect into account.
 
-Today, during my PhD studies, I have the privilege of delving into the field of Cosmology, now at the University of São Paulo, in the capital city. More than that, I had the opportunity to work as a guest researcher and a [CCA predoc](https://www.simonsfoundation.org/flatiron-institute-center-for-computational-astrophysics-pre-doctoral-program) at the Flatiron Institute, during September 2022 to August 2023, being able to go abroad for the first time in my life.
+During my PhD studies, I had the privilege of delving into the field of Cosmology, now at the University of São Paulo, in the capital city. 
+More than that, I had the opportunity to work as a guest researcher and a [CCA predoc](https://www.simonsfoundation.org/flatiron-institute-center-for-computational-astrophysics-pre-doctoral-program) at the Flatiron Institute, during September 2022 to August 2023, being able to go abroad for the first time in my life.
 Broadly speaking, my current research focuses on applying ML methods to address cosmological problems. 
 Specifically, my work includes:
 
@@ -40,7 +41,7 @@ Specifically, my work includes:
   
 6) I'm also involved in bridging the connection between halos and galaxies, specifically for central galaxies. Particularly, I am interested in recovering the scatter intricate relations of this connection. You can learn more about this research in our [first work](https://arxiv.org/abs/2201.06054)), [second work](https://arxiv.org/abs/2301.06398) and a bit of Normalizing Flows [here](https://arxiv.org/abs/2307.06967).
 
-This new journey is being wonderful!
+This new journey was wonderful!
 
 **This page**:
 
