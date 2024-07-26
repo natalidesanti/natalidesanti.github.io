@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: http://gravitation.web.ua.pt/index.php/
 venue: "Grav Seminars"
-date:May 31, 2023
+date: May 31, 2023
 location: "Gravitational Geometry and Dynamics research group, Aveiro, Portugal - Online"
 ---
 
