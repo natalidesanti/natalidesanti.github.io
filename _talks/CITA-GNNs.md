@@ -5,7 +5,7 @@ type: "Talk"
 permalink:
 venue: "CITA cosmology discussion"
 date: June 2, 2023
-location: "University of Toronto"
+location: "University of Toronto, Toronto, Canada"
 ---
 
-Talk, CITA cosmology discussion, University of Toronto
+Talk, CITA cosmology discussion, University of Toronto, Toronto, Canada
