@@ -10,4 +10,6 @@ location: "Columbia University, New York, NY, US"
 
 **Coordinates:**
 
+Talk, Pizza Lunch Talks, Columbia University, New York, NY, US
+
 * _Event webpage:_ https://www.astro.columbia.edu/content/informal-talks
