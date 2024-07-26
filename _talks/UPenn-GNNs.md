@@ -5,7 +5,7 @@ type: "Talk"
 permalink:
 venue: "Group Seminars - Prof. Bhuvnesh Jain"
 date: April 19, 2023
-location: "UPenn"
+location: "UPenn, Philadelphia, PA, US"
 ---
 
-Talk, Group Seminars - Prof. Bhuvnesh Jain, UPenn, Philadelphia, PA, United States
+Talk, Group Seminars - Prof. Bhuvnesh Jain, UPenn, Philadelphia, PA, US
