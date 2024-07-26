@@ -8,4 +8,4 @@ date: March 4, 2024
 location: "Tsinghua University/China"
 ---
 
-Talk, ML Session of DoA – Beijing/China, Tsinghua University/China
+Virtual talk, ML Session of DoA – Beijing/China, Tsinghua University/China
