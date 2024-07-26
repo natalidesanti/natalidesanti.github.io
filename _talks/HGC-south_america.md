@@ -1,9 +1,11 @@
 ---
 title: "Halo-galaxy connection and machine learning: an aerial view"
-collection: oral presentation
+collection: talks
 type: "Oral presentation"
 permalink:
-venue:
+venue: "II mini-Workshop on the halo-galaxy connection for the South American community"
 date: December 6, 2022
-location: "II mini-Workshop on the halo-galaxy connection for the South American community"
+location: "Universidad Técnica Federico Santa María, Santiago, Chile"
 ---
+
+Oral presentation, II mini-Workshop on the halo-galaxy connection for the South American community, Universidad Técnica Federico Santa María, Santiago, Chile
