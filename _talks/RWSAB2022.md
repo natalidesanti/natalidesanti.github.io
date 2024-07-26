@@ -1,6 +1,6 @@
 ---
 title: "Obtaining cosmological covariance matrices with machine learning"
-collection: oral presentation
+collection: talks
 type: "Oral presentation"
 permalink:
 venue: "XLV Reunião Anual da Sociedade Astronômica Brasileira"
@@ -9,6 +9,8 @@ location: "Virtual participation"
 ---
 
 **Coordinates:**
+
+Virtual oral presentation, XLV Reunião Anual da Sociedade Astronômica Brasileira
 
 * _Presentations:_ [YouTube](https://www.youtube.com/watch?v=bwwl_tjM2Go).
 
