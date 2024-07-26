@@ -3,13 +3,13 @@ title: "How to use Machine Learning (to try) to understand the Universe"
 collection: talks
 type: "Oral presentation"
 permalink: https://sites.google.com/uda.cl/atacama-2023/
-venue: "Universidad de Atacama/Chile"
+venue: "III mini-Workshop on the halo-galaxy connection for the South American community"
 date: October 13, 2023
-location: "III mini-Workshop on the halo-galaxy connection for the South American community"
+location: "Universidad de Atacama, Copiapó, Chile"
 ---
 
 **Coordinates**
 
-Oral presentation, Universidad de Atacama/Chile, III mini-Workshop on the halo-galaxy connection for the South American community
+Oral presentation, III mini-Workshop on the halo-galaxy connection for the South American community, Universidad de Atacama, Copiapó, Chile
 
 * _Event webpage:_ https://sites.google.com/uda.cl/atacama-2023/
