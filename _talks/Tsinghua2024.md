@@ -5,5 +5,7 @@ type: "Talk"
 permalink:
 venue: "ML Session of DoA – Beijing/China"
 date: March 4, 2024
-location: "Tsinghua University/Chine"
+location: "Tsinghua University/China"
 ---
+
+Talk, ML Session of DoA – Beijing/China, Tsinghua University/China
