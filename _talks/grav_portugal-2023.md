@@ -3,11 +3,13 @@ title: "Cosmology from galaxy phase-space information and a bit of halo-galaxy c
 collection: talks
 type: "Talk"
 permalink: http://gravitation.web.ua.pt/index.php/
-venue: "Gr@v Seminars - Gravitational Geometry and Dynamics research group"
+venue: "Grav Seminars"
 date:May 31, 2023
-location: "Aveiro, Portugal - Online"
+location: "Gravitational Geometry and Dynamics research group, Aveiro, Portugal - Online"
 ---
 
 **Coordinates:**
+
+Virtual talk, Grav Seminars, Gravitational Geometry and Dynamics research group, Aveiro, Portugal
 
 * _Event webpage:_ http://gravitation.web.ua.pt/index.php/
