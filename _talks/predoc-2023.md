@@ -10,4 +10,6 @@ location: "Flatiron Institute, New York, NY, United States"
 
 **Coordinates:**
 
+Oral presentation, Pre-doc symposium , Flatiron Institute, New York, NY, United States
+
 * _Event webpage:_ https://indico.flatironinstitute.org/event/3784/overview
