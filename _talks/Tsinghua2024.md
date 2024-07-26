@@ -1,6 +1,6 @@
 ---
 title: "Measuring the impact of systematics on the predictions of 𝛀m on simulated galaxy catalogs using graph neural networks"
-collection: oral presentation
+collection: Talk
 type: "Oral presentation"
 permalink:
 venue: "ML Session of DoA – Beijing/China"
