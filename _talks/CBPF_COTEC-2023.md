@@ -7,3 +7,5 @@ venue: "Seminários do CBPF/COTEC"
 date: December 6, 2023
 location: "CBPF, Rio de Janeiro, Brazil"
 ---
+
+Talk, Seminários do CBPF/COTEC, CBPF, Rio de Janeiro, Brazil
