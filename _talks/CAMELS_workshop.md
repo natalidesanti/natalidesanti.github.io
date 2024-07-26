@@ -1,14 +1,16 @@
 ---
 title: "Inferring cosmological parameters using galaxies"
-collection: oral presentation
+collection: talks
 type: "Oral presentation"
 permalink:
 venue: "CAMELS Workshop"
 date: December 1, 2022
-location: "Simons Foundation"
+location: "Simons Foundation, New York, NY, US"
 ---
 
 **Coordinates:**
+
+Oral presentation, CAMELS Workshop, Simons Foundation, New York, NY, US
 
 * _Presentations:_ [Slides](https://indico.flatironinstitute.org/event/3324/contributions/2845/attachments/705/1053/Natali%20de%20Santi.pdf).
 
