@@ -8,4 +8,4 @@ date: March 14, 2023
 location: "UC Berkeley, Berkeley, CA, US"
 ---
 
-Talk, Journal club: Berkeley Cosmology Group, UC Berkeley, Berkeley, CA, US
+Virtual talk, Journal club: Berkeley Cosmology Group, UC Berkeley, Berkeley, CA, US
