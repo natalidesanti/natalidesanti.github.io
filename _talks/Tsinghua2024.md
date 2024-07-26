@@ -3,9 +3,9 @@ title: "Measuring the impact of systematics on the predictions of 𝛀m on simul
 collection: talks
 type: "Talk"
 permalink:
-venue: "ML Session of DoA – Beijing/China"
+venue: "ML Session of DoA"
 date: March 4, 2024
-location: "Tsinghua University/China"
+location: "Tsinghua University, Beijing, China"
 ---
 
-Virtual talk, ML Session of DoA – Beijing/China, Tsinghua University/China
+Virtual talk, ML Session of DoA, Tsinghua University, Beijing, China
