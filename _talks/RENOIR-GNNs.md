@@ -5,7 +5,7 @@ type: "Talk"
 permalink:
 venue: "Renoir Science Seminar"
 date: May 31, 2023
-location: "CPPM"
+location: "Recherche Energie NOIRe (RENOIR), Marseille, France"
 ---
 
-Talk, Renoir Science Seminar, CPPM
+Talk, Renoir Science Seminar, Recherche Energie NOIRe (RENOIR), Marseille, France
