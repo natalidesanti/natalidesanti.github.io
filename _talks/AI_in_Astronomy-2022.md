@@ -5,5 +5,7 @@ type: "Talk"
 permalink: 
 venue: "AI in Astronomy"
 date: September 16, 2022
-location: "Online"
+location: "IAG, USP, São Paulo, SP, Brazil"
 ---
+
+Virtual talk, AI in Astronomy, IAG, USP, São Paulo, SP, Brazil
