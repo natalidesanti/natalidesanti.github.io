@@ -22,19 +22,3 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-<script>
-  const themeToggle = document.getElementById("theme-toggle");
-  const themeLink = document.getElementById("theme-style");
-  const currentTheme = localStorage.getItem("theme") || "default";
-
-  // Apply saved theme on page load
-  themeLink.href = `/assets/css/theme-${currentTheme}.css`;
-
-  // Toggle theme
-  themeToggle?.addEventListener("click", () => {
-    const newTheme = themeLink.href.includes("default") ? "dark" : "default";
-    themeLink.href = `/assets/css/theme-${newTheme}.css`;
-    localStorage.setItem("theme", newTheme);
-  });
-</script>
