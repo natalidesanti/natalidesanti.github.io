@@ -17,5 +17,13 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<link id="theme-css" rel="stylesheet" href="">
+<script>
+  const savedTheme = localStorage.getItem("theme");
+  if (savedTheme === "dark") {
+    const themeLink = document.getElementById("theme-css");
+    themeLink.href = "{{ base_path }}/assets/css/dark.css";
+  }
+</script>
 
 <meta http-equiv="cleartype" content="on">
