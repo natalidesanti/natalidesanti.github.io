@@ -12,4 +12,4 @@ location: "UTokyo, Japan"
 
 Oral presentation, AI driven discovery in Physics and Astrophysics - CD3, UTokyo, Japan
 
-* _Event webpage:_ (here)[https://cd3.ipmu.jp/ai4phys/#introduction]
+* _Event webpage:_ [here](https://cd3.ipmu.jp/ai4phys/#introduction)
