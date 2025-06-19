@@ -12,4 +12,4 @@ location: "Harvard University, Cambridge, MA, US"
 
 Talk, Open Group Seminars - Prof. Cora Dvorkin, Harvard University, Cambridge, MA, US
 
-* _Event webpage:_ https://dvorkin.physics.harvard.edu/past-open-group-seminars/
+* _Event webpage:_ [here](https://dvorkin.physics.harvard.edu/past-open-group-seminars/)
