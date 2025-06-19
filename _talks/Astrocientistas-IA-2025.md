@@ -5,7 +5,7 @@ collection: talks
 type: "Talk"
 permalink:
 venue: "As astrocientistas: III Encontro Brasileiro de Meninas e Mulheres da Astrofísica, Gravitação e Cosmologia"
-date: April, 2025
+date: April 1st, 2025
 location: "Astrocientistas"
 ---
 
