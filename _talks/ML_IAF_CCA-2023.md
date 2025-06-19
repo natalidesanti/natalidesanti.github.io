@@ -12,4 +12,4 @@ location: "CCA, New York, NY, US & IAP, Paris, France"
 
 Virtual oral communication, ML-IAF/CCA-2023: Debating the potential of machine learning in astronomical surveys, CCA, New York, NY, US & IAP, Paris, France
 
-* _Event webpage:_ https://indico.iap.fr/event/1/
+* _Event webpage:_ [here](https://indico.iap.fr/event/1/)
