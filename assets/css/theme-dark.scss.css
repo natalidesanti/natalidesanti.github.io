@@ -3,8 +3,3 @@
 
 @import "dark";
 @import "main";
-
-body, .wrapper, .site-header, .masthead {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
