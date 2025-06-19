@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink:
 venue: "SP Research Group meetings in Astro & Cosmo"
-date: August, 2024
+date: August 16th, 2024
 location: "Principia Institute"
 ---
 
