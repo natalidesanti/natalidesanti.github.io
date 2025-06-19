@@ -13,13 +13,29 @@ layout: compress
 
   <body>
 
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const toggle = document.getElementById("theme-toggle");
+        const link = document.getElementById("theme-css");
+
+        if (toggle && link) {
+          toggle.addEventListener("click", () => {
+            const currentTheme = localStorage.getItem("theme");
+            if (currentTheme === "dark") {
+              localStorage.setItem("theme", "light");
+              link.href = "";
+            } else {
+              localStorage.setItem("theme", "dark");
+              link.href = "{{ '/assets/css/dark.css' | relative_url }}";
+            }
+          });
+        }
+      });
+    </script>
+    
     <header class="site-header">
       <div class="wrapper">
         <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        <!-- 🌗 Toggle Button -->
-        <button id="theme-toggle" style="float: right; background: none; border: none; font-size: 1.2em; cursor: pointer;">
-          🌓
-        </button>
       </div>
     </header>
     
