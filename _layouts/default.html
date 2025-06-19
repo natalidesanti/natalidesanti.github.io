@@ -15,9 +15,9 @@ layout: compress
 
     <header class="site-header">
       <div class="wrapper">
-        <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        {% include navigation.html %}
         <!-- 🌗 Toggle Button -->
-        <button id="theme-toggle" style="float: right; background: none; border: none; font-size: 1.2em; cursor: pointer;">
+        <button id="theme-toggle" style="float: right; background: none; border: none; font-size: 1.2em; cursor: pointer; margin-top: -40px;">
           🌓
         </button>
       </div>
