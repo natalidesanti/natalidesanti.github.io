@@ -3,13 +3,3 @@
 
 @import "default";
 @import "main";
-
-.site-header,
-.masthead,
-.masthead__inner-wrap,
-.masthead__menu,
-.greedy-nav,
-.wrapper {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
