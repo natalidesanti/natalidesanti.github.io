@@ -12,4 +12,4 @@ location: "Universidad de Atacama, Copiapó, Chile"
 
 Oral presentation, III mini-Workshop on the halo-galaxy connection for the South American community, Universidad de Atacama, Copiapó, Chile
 
-* _Event webpage:_ https://sites.google.com/uda.cl/atacama-2023/
+* _Event webpage:_ [here](https://sites.google.com/uda.cl/atacama-2023/)
