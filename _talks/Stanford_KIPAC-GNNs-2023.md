@@ -12,4 +12,4 @@ location: "Stanford University, Santa Clara County, CA, US"
 
 Talk, Cosmology Seminar KIPAC, Stanford University, Santa Clara County, CA, US
 
-* _Event webpage:_ https://kipac.stanford.edu/events/field-level-likelihood-free-inference-galaxies-robust-model
+* _Event webpage:_ [here](https://kipac.stanford.edu/events/field-level-likelihood-free-inference-galaxies-robust-model)
