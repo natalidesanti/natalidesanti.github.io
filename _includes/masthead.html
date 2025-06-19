@@ -10,11 +10,17 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <!-- 🌗 Theme Toggle Button -->
+          <li class="masthead__menu-item">
+            <button id="theme-toggle" style="background: none; border: none; font-size: 1em; cursor: pointer;">
+              🌓
+            </button>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
