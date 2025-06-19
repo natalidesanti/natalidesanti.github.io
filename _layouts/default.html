@@ -11,27 +11,27 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const toggle = document.getElementById("theme-toggle");
+      const link = document.getElementById("theme-css");
+
+      if (toggle && link) {
+        toggle.addEventListener("click", () => {
+          const currentTheme = localStorage.getItem("theme");
+          if (currentTheme === "dark") {
+            localStorage.setItem("theme", "light");
+            link.href = "";
+          } else {
+            localStorage.setItem("theme", "dark");
+            link.href = "{{ '/assets/css/dark.css' | relative_url }}";
+          }
+        });
+      }
+    });
+  </script>
+
   <body>
-
-    <script>
-      document.addEventListener("DOMContentLoaded", () => {
-        const toggle = document.getElementById("theme-toggle");
-        const link = document.getElementById("theme-css");
-
-        if (toggle && link) {
-          toggle.addEventListener("click", () => {
-            const currentTheme = localStorage.getItem("theme");
-            if (currentTheme === "dark") {
-              localStorage.setItem("theme", "light");
-              link.href = "";
-            } else {
-              localStorage.setItem("theme", "dark");
-              link.href = "{{ '/assets/css/dark.css' | relative_url }}";
-            }
-          });
-        }
-      });
-    </script>
         
     {% include browser-upgrade.html %}
     {% include masthead.html %}
