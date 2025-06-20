@@ -8,7 +8,5 @@ date: November 30, 2023
 location: "IAG, USP, São Paulo, SP, Brasil"
 ---
 
-**Coordinates**
-
-Event: [AI in Astronomy](https://aiaseminars.com)
+Event website: [AI in Astronomy](https://aiaseminars.com)
 Tutorial: [code](https://github.com/natalidesanti/pytorch_and_GNNs)
