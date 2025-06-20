@@ -8,7 +8,5 @@ date: September 20, 2019
 location: "UNESP, Bauru, SP, Brasil"
 ---
 
-**Coordinates**
-
-Event: [XIX Physics Week](http://df.fc.unesp.br/semana/semana19/programacao/)
-Tutorial: [material](https://github.com/natalidesanti/introducao_a_relatividade)
+* Event: [XIX Physics Week](http://df.fc.unesp.br/semana/semana19/programacao/)
+* Tutorial: [material](https://github.com/natalidesanti/introducao_a_relatividade)
