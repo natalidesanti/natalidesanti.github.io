@@ -2,7 +2,7 @@
 title: "High-fidelity reproduction of central galaxy joint distributions with Neural Networks"
 collection: publications
 permalink: 
-excerpt: 'Regression to classification solving halo-galacy scatter problem'
+excerpt: 'Regression to classification solving halo-galaxy scatter problem'
 date: 2023-04-24
 venue: 'MNRAS'
 paperurl: 'https://doi.org/10.1093/mnras/stad1186](https://doi.org/10.1093/mnras/stad1186'
