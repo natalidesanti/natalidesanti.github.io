@@ -9,7 +9,7 @@ paperurl: 'http://www.scielo.br/pdf/rbef/v41n3/1806-9126-RBEF-41-3-e20180312.pdf
 citation: 'Santi, Natali Soler Matubaro de, & Santarelli, Raphael. (2019). Desvendando a radiação Hawking. Revista Brasileira de Ensino de Física, 41(3), e20180312. Epub March 11, 2019.https://doi.org/10.1590/1806-9126-rbef-2018-0312'
 ---
 
-**Abratract:**
+**Abstract:**
 
 In the classical theory of general relativity black holes can only absorb and not emit particles. However it is
 shown that quantum mechanical eﬀects cause black holes to create and emit particles as if they were hot bodies with
