@@ -2,7 +2,7 @@
 title: "Pytorch and GNNs tutorial"
 collection: teaching
 type: "Tutorial"
-permalink: https://aiaseminars.com
+permalink: 
 venue: "AI in Astronomy"
 date: November 30, 2023
 location: "IAG, USP, São Paulo, SP, Brasil"
