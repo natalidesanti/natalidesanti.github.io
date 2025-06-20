@@ -8,9 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am [**Natalí de Santi**](http://lattes.cnpq.br/3869697280207128), a physicist working with Machine Learning (ML) applied to Cosmology. 
-I have interests in cosmology (specially in the large scale structure of the Universe, dark matter, dark energy, cosmological covariance matrices, parameter inference, N-body and hydrodynamical simulations, and halo-galaxy connection), data science, machine learning and programming. 
-Recently, I have defended my PhD at [University of São Paulo (USP)](https://www5.usp.br) under the supervision of [Dr. Luis Raul Weber Abramo](http://lattes.cnpq.br/4558796258762790) ([USP](https://www5.usp.br)) and [Dr. Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/) ([Flatiron Institute](https://www.simonsfoundation.org/flatiron/)).
+Hello there 👋! 
+
+I am [**Natalí de Santi**](http://lattes.cnpq.br/3869697280207128), a physicist working with Machine Learning (ML) applied to Cosmology and Astrophysics. 
+My main interests in these topics are related to:
+* large scale structure of the Universe,
+* dark matter and dark energy,
+* cosmological parameter inference,
+* N-body and hydrodynamical simulations,
+* halo-galaxy connection.
+More than just Physics, I am deeply curious about a bunch of methods in data science, machine learning and programming.
+
+I will be joining UC Berkeley Department of Physics this fall as a postdoc, and I am super happy that I will be able to keep working with Artificial Intelligence (AI) applied to Cosmology.
+Recently, I became a doctor by [University of São Paulo (USP)](https://www5.usp.br), under the supervision of [Dr. Luis Raul Weber Abramo](http://lattes.cnpq.br/4558796258762790) ([USP](https://www5.usp.br)) and [Dr. Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/) ([Flatiron Institute](https://www.simonsfoundation.org/flatiron/)).
+If you wanna take a look at my thesis, where I discuss about how to use machine learning methods for extracting cosmological information, you can find it [here](https://www.teses.usp.br/teses/disponiveis/43/43134/tde-15072024-101341/publico/tesenatalisolermatubarodesanti.pdf).
 
 First things first, a little **about me**:
 
@@ -35,13 +46,13 @@ More than that, I had the opportunity to work as a guest researcher and a [CCA p
 Broadly speaking, my current research focuses on applying ML methods to address cosmological problems. 
 Specifically, my work includes:
 
-1) Recently, we developed a ML model—a Graph Neural Network (GNN) combined with a Moment Neural Network (MNN)—to extract information from smaller scales than ever before. More details about this work can be found [here](https://arxiv.org/abs/2302.14101). This model has proven to be robust against five different sub-grid physical models, various halo/subhalo finders, and changes in cosmological and astrophysical parameters, including those not encountered during the training phase. However, observations are influenced by various effects, including 1) masking, 2) uncertainties in peculiar velocities and radial distances, and 3) different galaxy selection criteria. I am currently on a journey to demonstrate that GNNs can be used to overcome these challenges as well. More details are available [here](https://arxiv.org/abs/2310.15234)). Also, I worked with [Symbolic Regression to explain the GNNs applied to halos](https://arxiv.org/abs/2302.14591) and the reason behind the success of [Astrid](https://arxiv.org/abs/2304.02096), as the best hydrodynamic simulation to obtain a robust ML model.
+1) Recently, we developed a ML model - a Graph Neural Network (GNN) combined with a Moment Neural Network (MNN) - to extract information from smaller scales than ever before. More details about this work can be found [here](https://arxiv.org/abs/2302.14101). This model has proven to be robust against five different sub-grid physical models, various halo/subhalo finders, and changes in cosmological and astrophysical parameters, including those not encountered during the training phase. However, observations are influenced by various effects, including (i) masking, (ii) uncertainties in peculiar velocities and radial distances, and (iii) different galaxy selection criteria. My findings on demonstrating that GNNs can be used to overcome these challenges as well are available [here](https://arxiv.org/abs/2310.15234)). Also, I contributed with works on [Symbolic Regression to explain the GNNs applied to halos](https://arxiv.org/abs/2302.14591) and the reason behind the success of [Astrid](https://arxiv.org/abs/2304.02096), as the best hydrodynamic simulation to obtain a robust ML model.
 
-2) I have been working on improving cosmological covariance matrices using data from [ExSHalos](https://arxiv.org/abs/1906.06630) and [Quijote simulations](https://quijote-simulations.readthedocs.io/en/latest/) by employing image denoising techniques. Further information can be found in our [paper](https://arxiv.org/abs/2205.10881)).
+3) I have been working on improving cosmological covariance matrices using data from [ExSHalos](https://arxiv.org/abs/1906.06630) and [Quijote simulations](https://quijote-simulations.readthedocs.io/en/latest/) by employing image denoising techniques. Further information can be found in our [paper](https://arxiv.org/abs/2205.10881)).
   
-6) I'm also involved in bridging the connection between halos and galaxies, specifically for central galaxies. Particularly, I am interested in recovering the scatter intricate relations of this connection. You can learn more about this research in our [first work](https://arxiv.org/abs/2201.06054)), [second work](https://arxiv.org/abs/2301.06398) and a bit of Normalizing Flows [here](https://arxiv.org/abs/2307.06967).
+6) I'm also involved in bridging the connection between halos and galaxies, specifically for central galaxies. Particularly, I am interested in recovering the scatter intricate relations of this connection. You can learn more about this research in our [first](https://arxiv.org/abs/2201.06054)), [second](https://arxiv.org/abs/2301.06398), and [third work](https://arxiv.org/abs/2410.17844).
 
-This new journey was wonderful!
+This journey has been wonderful so far!
 
 **This page**:
 
