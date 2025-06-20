@@ -2,7 +2,7 @@
 title: "Robust field-level likelihood-free inference with galaxies"
 collection: publications
 permalink: 
-excerpt: ''
+excerpt: 'First ML robust method to predict $\Omega_{m}$'
 date: 2023-02-27
 venue: 'arXiv'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/acd1e2/meta'
