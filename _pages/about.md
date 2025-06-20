@@ -17,6 +17,7 @@ My main interests in these topics are related to:
 * cosmological parameter inference,
 * N-body and hydrodynamical simulations,
 * halo-galaxy connection.
+* 
 More than just Physics, I am deeply curious about a bunch of methods in data science, machine learning and programming.
 
 I will be joining UC Berkeley Department of Physics this fall as a postdoc, and I am super happy that I will be able to keep working with Artificial Intelligence (AI) applied to Cosmology.
