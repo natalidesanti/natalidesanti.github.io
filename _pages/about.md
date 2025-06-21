@@ -17,10 +17,11 @@ My main interests in these topics are related to:
 * cosmological parameter inference,
 * N-body and hydrodynamical simulations,
 * halo-galaxy connection.
-* 
+
 More than just Physics, I am deeply curious about a bunch of methods in data science, machine learning and programming.
 
-I will be joining UC Berkeley Department of Physics this fall as a postdoc, and I am super happy that I will be able to keep working with Artificial Intelligence (AI) applied to Cosmology.
+I will be joining [UC Berkeley](https://www.berkeley.edu) [Department of Physics](https://physics.berkeley.edu) this fall as a postdoc, 
+and I am super happy that I will be able to keep doing the work that I love to do.
 Recently, I became a doctor by [University of São Paulo (USP)](https://www5.usp.br), under the supervision of [Dr. Luis Raul Weber Abramo](http://lattes.cnpq.br/4558796258762790) ([USP](https://www5.usp.br)) and [Dr. Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/) ([Flatiron Institute](https://www.simonsfoundation.org/flatiron/)).
 If you wanna take a look at my thesis, where I discuss about how to use machine learning methods for extracting cosmological information, you can find it [here](https://www.teses.usp.br/teses/disponiveis/43/43134/tde-15072024-101341/publico/tesenatalisolermatubarodesanti.pdf).
 
