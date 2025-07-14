@@ -56,6 +56,7 @@ Research experience
 
 Honors and Awards
 ======
+* Honorable Mention – José Leite Lopes Prize for Best Doctoral Thesis 2025 – SBF, 2025
 * SBF Award for Best PhD Thesis in the Area of Particle and Fields Physics – SBF, 2025
 * Outstanding PhD thesis – Postgraduate Award, IF, USP, 2025 
 * Honorable mention for an outstanding scientific article - Postgraduate Award, IF, USP, 2024
