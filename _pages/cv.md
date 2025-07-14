@@ -130,5 +130,5 @@ Skills
 Refereeing
 ======
 * New Astronomy (New Astron.) - 2024
-* Monthly Notices of the Royal Astronomical Society (MNRAS) - 2022/2023
+* Monthly Notices of the Royal Astronomical Society (MNRAS) - 2022/2023/2025
 * The Astrophysical Journal (ApJ) - 2023
