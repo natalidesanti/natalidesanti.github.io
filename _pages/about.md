@@ -50,7 +50,7 @@ Specifically, my work includes:
 
 3) I have been working on improving cosmological covariance matrices using data from [ExSHalos](https://arxiv.org/abs/1906.06630) and [Quijote simulations](https://quijote-simulations.readthedocs.io/en/latest/) by employing image denoising techniques. Further information can be found in our [paper](https://arxiv.org/abs/2205.10881)).
   
-6) I'm also involved in bridging the connection between halos and galaxies, specifically for central galaxies. Particularly, I am interested in recovering the scatter intricate relations of this connection. You can learn more about this research in our [first](https://arxiv.org/abs/2201.06054), [second](https://arxiv.org/abs/2301.06398), and [third work](https://arxiv.org/abs/2410.17844) works.
+6) I'm also involved in bridging the connection between halos and galaxies, specifically for central galaxies. Particularly, I am interested in recovering the scatter intricate relations of this connection. You can learn more about this research in our [first](https://arxiv.org/abs/2201.06054), [second](https://arxiv.org/abs/2301.06398), and [third](https://arxiv.org/abs/2410.17844) works.
 
 This journey has been wonderful so far!
 
