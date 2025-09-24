@@ -19,6 +19,14 @@ Education
 Research experience
 ======
 
+* 2025 - present: Postdoctoral Scholar
+  * UC Berkeley
+  * Supervisor: PhD Uros Seljak
+
+* 2025 - present: Researcher Affiliate
+  * Berkeley Lab
+  * Supervisor: PhD Uros Seljak
+
 * 2024 - 2024: Visiting Scholar Consultant
   * Simons Foundation
   * Supervisor: PhD Francisco Villaescusa-Navarro
@@ -56,9 +64,10 @@ Research experience
 
 Honors and Awards
 ======
-* Honorable Mention – José Leite Lopes Prize for Best Doctoral Thesis 2025 – SBF, 2025
-* SBF Award for Best PhD Thesis in the Area of Particle and Fields Physics – SBF, 2025
-* Outstanding PhD thesis – Postgraduate Award, IF, USP, 2025 
+* Honorable Mention – [2025 ICTP-SAIFR PhD Prize in Classical Gravity and Applications](https://www.ictp-saifr.org/gravityprize/) – SBF, 2025
+* Honorable Mention – [José Leite Lopes Prize for Best Doctoral Thesis 2025](https://www.sbfisica.org.br/v1/sbf/entre-redes-quanticas-e-galaxias-os-destaques-do-premio-jose-leite-lopes-2025/) – SBF, 2025
+* [SBF Award for Best PhD Thesis in the Area of Particle and Fields Physics](https://www.sbfisica.org.br/v1/sbf/cresce-para-sete-o-numero-de-teses-premiadas-pela-sbf-em-2025/) – SBF, 2025
+* [Outstanding PhD thesis](https://portal.if.usp.br/imprensa/pt-br/node/4726) – Postgraduate Award, IF, USP, 2025 
 * Honorable mention for an outstanding scientific article - Postgraduate Award, IF, USP, 2024
 * First best poster award in Master's degree - XIII Physics Week (XIII SeFís), 2017
 * Certificate of merit - Best student of the 3rd year of high school, 2011
