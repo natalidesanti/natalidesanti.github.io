@@ -6,7 +6,7 @@ excerpt: 'Regression to classification solving halo-galaxy scatter problem'
 date: 2023-04-24
 venue: 'MNRAS'
 paperurl: 'https://doi.org/10.1093/mnras/stad1186'
-citation: 'Natália V N Rodrigues, Natalí S M de Santi, Antonio D Montero-Dorta, L Raul Abramo, High-fidelity reproduction of central galaxy joint distributions with neural networks, Monthly Notices of the Royal Astronomical Society, Volume 522, Issue 3, July 2023, Pages 3236–3247, https://doi.org/10.1093/mnras/stad1186'
+citation: 'Natália V N Rodrigues, Natalí S M de Santi, et al., 2023, https://doi.org/10.1093/mnras/stad1186'
 ---
 
 Paper highlights:
