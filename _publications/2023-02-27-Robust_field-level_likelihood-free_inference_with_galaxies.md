@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: 'First ML robust method to predict $\Omega_{m}$'
 date: 2023-02-27
-venue: 'arXiv'
+venue: 'ApJ'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/acd1e2/meta'
 citation: 'Natalí S. M. de Santi et al 2023 ApJ 952 69'
 ---
