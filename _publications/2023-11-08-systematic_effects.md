@@ -6,7 +6,7 @@ excerpt: 'GNNs can deal with observational effects'
 date: 2025-01-21
 venue: 'JCAP'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1475-7516/2025/01/082'
-citation: 'de Santi, N. S. M., Villaescusa-Navarro, F., Raul Abramo, L., et al. 2025, JCAP, 2025, 1, 082. doi:10.1088/1475-7516/2025/01/082'
+citation: 'de Santi, N. S. M., Villaescusa-Navarro, F., Raul Abramo, L., et al. 2025, JCAP. doi:10.1088/1475-7516/2025/01/082'
 ---
 
 Paper highlights:
