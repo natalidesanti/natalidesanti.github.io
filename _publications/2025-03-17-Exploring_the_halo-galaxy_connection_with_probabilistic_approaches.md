@@ -6,7 +6,7 @@ excerpt: 'Normalizing flows, Gaussian Likelihood and regression to classificatio
 date: 2025-05-23
 venue: 'A&A'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2025/06/aa53284-24/aa53284-24.html'
-citation: 'Rodrigues, N. V. N., de Santi, N. S. M., Abramo, R., et al. 2025, AAP, 698, A3. doi:10.1051/0004-6361/202453284'
+citation: 'Rodrigues, N. V. N., de Santi, N. S. M., Abramo, R., et al. 2025, AAP. doi:10.1051/0004-6361/202453284'
 ---
 
 Paper highlights:
