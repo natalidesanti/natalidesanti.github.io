@@ -28,8 +28,6 @@ Beyond Physics itself, I am deeply curious about data science, machine learning,
 I obtained my PhD from the [University of São Paulo (USP)](https://www5.usp.br), under the supervision of  [Dr. Luis Raul Weber Abramo](http://lattes.cnpq.br/4558796258762790) (USP) and  [Dr. Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/) (Flatiron Institute).  
 My doctoral thesis focuses on how machine learning methods can be used to extract cosmological information from simulated halo and galaxy catalogs, and it is available [here](https://www.teses.usp.br/teses/disponiveis/43/43134/tde-15072024-101341/publico/tesenatalisolermatubarodesanti.pdf).
 
----
-
 ## A little **about me**
 
 Since childhood, I have been fascinated by science, especially Astronomy and Physics, as well as by computers.  
@@ -53,8 +51,6 @@ My research included a [review of Hawking radiation](http://www.scielo.br/scielo
 
 During my PhD, now fully focused on Cosmology, I joined the [University of São Paulo](https://www5.usp.br) in São Paulo and later spent a year as a guest researcher and  [CCA Predoctoral Fellow](https://www.simonsfoundation.org/flatiron-institute-center-for-computational-astrophysics-pre-doctoral-program) at the Flatiron Institute (2022-2023), my first long research experience abroad.
 
----
-
 ## Research interests and ongoing work
 
 Broadly speaking, my research lies at the intersection of **cosmology**, **simulations**, and **machine learning**, with a focus on building robust, physically interpretable, and uncertainty-aware inference methods.
@@ -73,16 +69,12 @@ A major part of my work focuses on **likelihood-free, field-level inference** us
 
 - More recently, we showed that **semi-analytic models (SAMs)** can be used to train GNN-based inference models that extrapolate remarkably well to full hydrodynamical simulations, offering a fast and efficient path to cosmology-ready mock catalogs ([paper](https://arxiv.org/abs/2512.10222)).
 
----
-
 ### 2️⃣ Improving cosmological covariance matrices with machine learning
 
 I also work on reducing the computational cost of cosmological analyses by improving covariance matrices.
 
 - Using **convolutional neural networks** (CNNs), we developed a denoising approach that allows accurate covariance matrices to be constructed from only tens to hundreds of simulations, instead of tens of thousands, while preserving parameter inference accuracy  ([paper](https://arxiv.org/abs/2205.10881)). This work also showed its own extrapolation power after being trained on matrices using data from [ExSHalos](https://arxiv.org/abs/1906.06630) to data from the [Quijote simulations](https://quijote-simulations.readthedocs.io/en/latest/)
    
----
-
 ### 3️⃣ Modeling the halo-galaxy connection with probabilistic ML
 
 Another core research direction is understanding and modeling the **stochastic nature of the halo-galaxy connection**.
@@ -92,8 +84,6 @@ Another core research direction is understanding and modeling the **stochastic n
 - By reformulating regression as a classification problem, we recovered **full probability distributions** of galaxy properties for the first time ([paper](https://arxiv.org/abs/2301.06398)).
 
 - We later compared different **probabilistic ML methods**, including a multivariate Gaussian distribution, a multilayer perceptron classifier, and normalizing flows, to identify which approaches best capture uncertainty in galaxy populations ([paper](https://arxiv.org/abs/2410.17844)).
-
----
 
 ## This page
 
