@@ -6,7 +6,7 @@ excerpt: 'First approach: stacked methods and SMOGN'
 date: 2022-05-30
 venue: 'MNRAS'
 paperurl: 'https://doi.org/10.1093/mnras/stac1469'
-citation: 'Natalí S. M. de Santi, Natália V. N. Rodrigues, Antonio D. Montero-Dorta, L. Raul Abramo, Beatriz Tucci, M. Celeste Artale, Mimicking the halo–galaxy connection using machine learning, Monthly Notices of the Royal Astronomical Society, Volume 514, Issue 2, August 2022, Pages 2463–2478, https://doi.org/10.1093/mnras/stac1469'
+citation: 'Natalí S. M. de Santi, et al. 2022, https://doi.org/10.1093/mnras/stac1469'
 ---
 
 Paper highlights:
