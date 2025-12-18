@@ -1,4 +1,4 @@
-[---
+---
 title: "Field-level simulation-based inference with galaxy catalogs: the impact of systematic effects"
 collection: publications
 permalink: 
@@ -15,4 +15,3 @@ Paper highlights:
 - Shows that despite degraded performance, the models succeed for over 90% of galaxy catalogs, highlighting strong potential for application to real survey data.
 
 You can read the paper [here](https://arxiv.org/abs/2310.15234).
-](https://iopscience.iop.org/article/10.1088/1475-7516/2025/01/082)
