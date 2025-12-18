@@ -142,3 +142,12 @@ Refereeing
 * Monthly Notices of the Royal Astronomical Society (MNRAS) - 2022/2023/2025
 * The Astrophysical Journal (ApJ) - 2023
 * Journal of Cosmology and Astroparticle Physics (JCAP) - 2025
+
+Orientations
+======
+* [Veer Mehta](https://www.linkedin.com/in/veer-mehta-338450208/). Undergrad research. UC Berkeley. Inference of halo properties from galaxy simulation data using machine learning.
+* [Tirthankar De](https://www.linkedin.com/in/tirthankar-de-99a9b6283/). Undergrad research. Indian Institute of Technology Roorkee. Statistical and machine learning approaches for cosmological parameter inference.
+
+Member of thesis and dissertation examination committees
+======
+* Jara, C. B. R.; MONTERO-DORTA, ANTONIO D; Amigo, P.; de Santi, N. S. M.; RODRIGUES, NATÁLIA V N. Member of undergraduate thesis of Catalina Belén Riveros Jara. The halo-galaxy connection through the lens of a machine: predicting galaxy clustering. 2025. Undergraduate thesis in Astrophysics - Universidad Tecnica Federico Santa Maria - Chile.
