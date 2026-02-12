@@ -3,7 +3,7 @@ title: "Predicting galaxy bias using machine learning"
 collection: publications
 permalink: 
 excerpt: 'Environmental and NF are what we need for galaxy bias'
-date: 2026-0205
+date: 2026-02-05
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2602.05881'
 citation: 'Catalina Riveros-Jara et al 2026 arXiv'
