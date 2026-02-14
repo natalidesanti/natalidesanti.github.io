@@ -143,7 +143,7 @@ Refereeing
 * The Astrophysical Journal (ApJ) - 2023
 * Journal of Cosmology and Astroparticle Physics (JCAP) - 2025
 
-Orientations
+Research Supervision
 ======
 * [Veer Mehta](https://www.linkedin.com/in/veer-mehta-338450208/). Undergrad research. UC Berkeley. Inference of halo properties from galaxy simulation data using machine learning.
 * [Tirthankar De](https://www.linkedin.com/in/tirthankar-de-99a9b6283/). Undergrad research. Indian Institute of Technology Roorkee. Statistical and machine learning approaches for cosmological parameter inference.
