@@ -20,9 +20,7 @@ My main scientific interests include:
 - dark matter and dark energy,  
 - cosmological parameter inference,  
 - N-body and hydrodynamical simulations,  
-- the halo-galaxy connection,  
-- foundation models and multi-data representation,
-- BAO reconstruction and parameter estimation,
+- the halo-galaxy connection.,
 
 Beyond Physics itself, I am deeply curious about data science, machine learning, probabilistic modeling, and scientific programming.
 
