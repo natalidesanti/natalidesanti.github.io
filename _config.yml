@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My personal page"
+title                    : "Natalí de Santi"
 title_separator          : "-"
 name                     : &name "Natalí de Santi"
-description              : &description "Physicist"
+description              : &description "Cosmologist building robust, interpretable machine-learning methods to learn about the Universe from galaxies and simulations."
 url                      : https://natalidesanti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/natalidesanti"
+repository               : "natalidesanti/natalidesanti.github.io"
 teaser                   : "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,13 +62,17 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/profile.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Natalí de Santi"
+  links:
+    - "https://github.com/natalidesanti"
+    - "https://scholar.google.com.br/citations?hl=pt-BR&user=NWv8MRUAAAAJ"
+    - "https://www.linkedin.com/in/natali-de-santi"
+    - "https://orcid.org/0000-0002-4728-6881"
 
 
 # Analytics
@@ -82,9 +86,9 @@ analytics:
 author:
   name             : "Natalí de Santi"
   avatar           : "profile.png"
-  bio              : "PhD in Physics"
-  location         : "Albany, CA"
-  employer         :
+  bio              : "Cosmologist · ML researcher"
+  location         : "Berkeley, CA"
+  employer         : "UC Berkeley / LBNL"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=NWv8MRUAAAAJ"
   email            : "natalidesanti@gmail.com"
