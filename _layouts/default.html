@@ -14,17 +14,17 @@ layout: compress
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       const toggle = document.getElementById("theme-toggle");
-      const link = document.getElementById("theme-css");
 
-      if (toggle && link) {
-        toggle.addEventListener("click", () => {
-          const currentTheme = localStorage.getItem("theme");
+      if (toggle) {
+        toggle.addEventListener("click", (event) => {
+          event.preventDefault();
+          const currentTheme = document.documentElement.dataset.theme;
           if (currentTheme === "dark") {
             localStorage.setItem("theme", "light");
-            link.href = "";
+            document.documentElement.removeAttribute("data-theme");
           } else {
             localStorage.setItem("theme", "dark");
-            link.href = "{{ '/assets/css/dark.css' | relative_url }}";
+            document.documentElement.dataset.theme = "dark";
           }
         });
       }
