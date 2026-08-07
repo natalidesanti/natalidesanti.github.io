@@ -11,26 +11,6 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      const toggle = document.getElementById("theme-toggle");
-
-      if (toggle) {
-        toggle.addEventListener("click", (event) => {
-          event.preventDefault();
-          const currentTheme = document.documentElement.dataset.theme;
-          if (currentTheme === "dark") {
-            localStorage.setItem("theme", "light");
-            document.documentElement.removeAttribute("data-theme");
-          } else {
-            localStorage.setItem("theme", "dark");
-            document.documentElement.dataset.theme = "dark";
-          }
-        });
-      }
-    });
-  </script>
-
   <body>
         
     {% include browser-upgrade.html %}
