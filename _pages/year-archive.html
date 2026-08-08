@@ -1,19 +1,31 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
-author_profile: true
+title: "Writing"
+author_profile: false
+hide_title: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
+<div class="modern-page-header">
+  <p class="eyebrow">Ideas in progress</p>
+  <h1>Writing</h1>
+  <p>Notes and essays from the notebook, on physics, machine learning, and the occasional detour.</p>
+</div>
+
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="modern-page">
+  {% capture written_year %}'None'{% endcapture %}
+  {% for post in site.posts %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if year != written_year %}
+      {% unless forloop.first %}</div>{% endunless %}
+      <h2 id="{{ year | slugify }}" class="modern-year">{{ year }}</h2>
+      <div class="modern-list">
+      {% capture written_year %}{{ year }}{% endcapture %}
+    {% endif %}
+    {% include archive-single-modern.html %}
+  {% endfor %}
+  {% unless site.posts == empty %}</div>{% endunless %}
+</div>

@@ -2,15 +2,20 @@
 layout: archive
 title: "Talks and presentations"
 permalink: /talks/
-author_profile: true
+author_profile: false
+hide_title: true
 ---
 
-{% if site.talkmap_link == true %}
+<div class="modern-page-header">
+  <p class="eyebrow">Talks & presentations</p>
+  <h1>Talks</h1>
+  <p>Invited talks, colloquia, and conference presentations on cosmology, simulations, and machine learning.{% if site.talkmap_link == true %} <a href="/talkmap.html">See a map of all the places I've given a talk</a>.{% endif %}</p>
+</div>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="modern-page">
+  <div class="modern-list">
+    {% for post in site.talks reversed %}
+      {% include archive-single-talk-modern.html %}
+    {% endfor %}
+  </div>
+</div>

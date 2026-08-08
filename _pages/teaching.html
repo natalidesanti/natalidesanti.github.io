@@ -2,11 +2,22 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
+hide_title: true
 ---
+
+<div class="modern-page-header">
+  <p class="eyebrow">Teaching & mentoring</p>
+  <h1>Teaching</h1>
+  <p>Courses, mentoring, and outreach activities alongside my research.</p>
+</div>
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="modern-page">
+  <div class="modern-list">
+    {% for post in site.teaching reversed %}
+      {% include archive-single-modern.html %}
+    {% endfor %}
+  </div>
+</div>

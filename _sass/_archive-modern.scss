@@ -1,0 +1,218 @@
+/* ==========================================================================
+   MODERN CONTENT PAGES (Writing, Publications, Talks, Teaching, CV)
+   ========================================================================== */
+
+/*
+   These pages hide the sidebar (author_profile: false), but .archive still
+   reserves a Susy grid column for it regardless of whether the sidebar div
+   is actually in the DOM. Reset .archive back to a full-width, unfloated
+   block so .modern-page-header/.modern-page can center themselves within
+   the full #main width.
+   ========================================================================== */
+
+.archive--full-width {
+  @include breakpoint($large) {
+    width: 100%;
+    float: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.modern-page-header {
+  width: calc(100% - 2rem);
+  max-width: 1180px;
+  margin: 0 auto 3rem;
+  padding-top: 1rem;
+}
+
+.modern-page-header .eyebrow { margin-bottom: 1rem; }
+
+.modern-page-header h1 {
+  margin: 0;
+  color: var(--home-ink);
+  font-size: 3.4rem;
+  font-weight: 750;
+  letter-spacing: -0.045em;
+  line-height: 1.05;
+}
+
+.modern-page-header p:last-child {
+  max-width: 720px;
+  margin: 1.2rem 0 0;
+  color: var(--home-muted);
+  font-size: 1.1rem;
+  line-height: 1.65;
+}
+
+.modern-page {
+  width: calc(100% - 2rem);
+  max-width: 1180px;
+  margin: 0 auto;
+  color: var(--home-ink);
+}
+
+.modern-page a { transition: color 180ms ease, transform 180ms ease; }
+
+/*
+   List rows (Publications, Talks, Teaching, Writing)
+   ========================================================================== */
+
+.modern-list { border-top: 1px solid var(--global-border-color); }
+
+.modern-item {
+  display: grid;
+  grid-template-columns: 150px 1fr 40px;
+  gap: 2rem;
+  padding: 1.8rem 0;
+  border-bottom: 1px solid var(--global-border-color);
+  align-items: start;
+}
+
+.modern-item__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  color: var(--home-muted);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.modern-item__body h2,
+.modern-item__body h3 {
+  margin: 0 0 0.45rem;
+  color: var(--home-ink);
+  font-family: $global-font-family;
+  font-size: 1.22rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.modern-item__body h2 a,
+.modern-item__body h3 a {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover { color: var(--home-violet); }
+}
+
+.modern-item__body p {
+  margin: 0 0 0.4rem;
+  color: var(--home-muted);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.modern-item__body p:last-child { margin-bottom: 0; }
+
+.modern-item__body a { color: var(--home-violet); }
+
+.modern-item__arrow {
+  color: var(--home-violet);
+  font-size: 1.4rem;
+  text-align: right;
+  text-decoration: none;
+}
+
+.modern-year {
+  margin: 3rem 0 0;
+  padding-bottom: 0.6rem;
+  color: var(--home-violet);
+  font-family: $global-font-family;
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  border: none;
+
+  &:first-child { margin-top: 0; }
+}
+
+/*
+   CV
+   ========================================================================== */
+
+.modern-page > h1 {
+  margin: 3.5rem 0 1.6rem;
+  padding-bottom: 0;
+  color: var(--home-ink);
+  font-family: $global-font-family;
+  font-size: 2.1rem;
+  font-weight: 750;
+  letter-spacing: -0.03em;
+  border-bottom: none;
+
+  &:first-child { margin-top: 0; }
+}
+
+.modern-page > ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.modern-page > ul > li {
+  padding: 1.2rem 0;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: 0.95rem;
+  line-height: 1.6;
+
+  &:first-child { padding-top: 0; }
+
+  > ul {
+    margin: 0.5rem 0 0;
+    padding-left: 1.2rem;
+    color: var(--home-muted);
+  }
+}
+
+.modern-page a { color: var(--home-violet); }
+
+.modern-page .cv-item__title {
+  color: var(--home-ink);
+  font-weight: 700;
+}
+
+.modern-page .cv-item__date {
+  color: var(--home-muted);
+  font-size: 0.85rem;
+}
+
+.modern-page .cv-section--skills > ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.modern-page .cv-section--skills > ul > li {
+  padding: 1.2rem 0 0.4rem;
+  border-bottom: none;
+
+  &:first-child { padding-top: 0; }
+}
+
+.modern-page .cv-section--skills > ul > li > ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.6rem 0 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.modern-page .cv-section--skills li li {
+  display: inline-flex;
+  padding: 0.4rem 0.9rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  background: var(--home-card);
+  color: var(--home-ink);
+  font-size: 0.8rem;
+}
+
+@media (max-width: 900px) {
+  .modern-page-header h1 { font-size: 2.6rem; }
+  .modern-item { grid-template-columns: 1fr 32px; gap: 1rem; }
+  .modern-item__meta { grid-column: 1 / -1; flex-direction: row; }
+}
