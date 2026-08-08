@@ -5,7 +5,7 @@ permalink:
 excerpt: 'Environmental and NF are what we need for galaxy bias'
 date: 2026-02-05
 venue: 'A&A'
-paperurl: '[https://www.aanda.org/articles/aa/full_html/2026/07/aa59262-26/aa59262-26.html](https://www.aanda.org/articles/aa/full_html/2026/07/aa59262-26/aa59262-26.html)'
+paperurl: 'https://www.aanda.org/articles/aa/full_html/2026/07/aa59262-26/aa59262-26.html'
 citation: 'Riveros-Jara, C., Montero-Dorta, A. D., Rodrigues, N. V. N., et al. 2026, AAP, doi:10.1051/0004-6361/202659262'
 ---
 

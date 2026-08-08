@@ -7,7 +7,7 @@
   --home-muted: #526176;
   --home-surface: #f5f2ec;
   --home-card: #ffffff;
-  --home-violet: #7257d9;
+  --home-violet: #b8383e;
   --home-blue: #287eab;
   --home-gold: #d9922e;
 }
@@ -145,7 +145,7 @@ html[data-theme="dark"] .masthead { background: rgba(46, 47, 48, 0.92); }
   right: -16%;
   width: 110%;
   aspect-ratio: 1;
-  border: 1px solid rgba(114, 87, 217, 0.35);
+  border: 1px solid rgba(184, 56, 62, 0.35);
   border-radius: 50%;
   transform: rotate(-20deg);
 }
@@ -272,7 +272,7 @@ html[data-theme="dark"] .masthead { background: rgba(46, 47, 48, 0.92); }
 .writing-card > a { margin-top: auto; color: var(--home-violet); font-size: .78rem; font-weight: 750; text-decoration: none; }
 
 .home-contact { padding: 7rem 2rem; background: #10233d; color: #fff; }
-.home-contact .eyebrow { color: #c8baff; }
+.home-contact .eyebrow { color: #f2b3b6; }
 .home-contact h2 { max-width: 900px; margin-bottom: 2rem; color: #fff; }
 
 #theme-toggle { display: inline-flex; width: 34px; height: 34px; border-radius: 50%; align-items: center; justify-content: center; }
