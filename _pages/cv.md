@@ -2,12 +2,21 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
+hide_title: true
 redirect_from:
   - /resume
 ---
 
+<div class="modern-page-header">
+  <p class="eyebrow">Curriculum Vitae</p>
+  <h1>CV</h1>
+  <p>Education, research experience, honors, and publications.</p>
+</div>
+
 {% include base_path %}
+
+<div class="modern-page" markdown="1">
 
 Education
 ======
@@ -96,6 +105,8 @@ Teaching and other activities
   
 Skills
 ======
+
+<div class="cv-section--skills" markdown="1">
 * Computer Languages
   * Bash
   * C
@@ -135,6 +146,7 @@ Skills
   * Native speaker in Portuguese
   * Proeficient in English
   * Beginner in Spanish
+</div>
 
 Refereeing
 ======
@@ -151,3 +163,5 @@ Research Supervision
 Member of thesis and dissertation examination committees
 ======
 * Jara, C. B. R.; MONTERO-DORTA, ANTONIO D; Amigo, P.; de Santi, N. S. M.; RODRIGUES, NATÁLIA V N. Member of undergraduate thesis of Catalina Belén Riveros Jara. The halo-galaxy connection through the lens of a machine: predicting galaxy clustering. 2025. Undergraduate thesis in Astrophysics - Universidad Tecnica Federico Santa Maria - Chile.
+
+</div>
